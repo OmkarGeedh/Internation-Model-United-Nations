@@ -1,0 +1,318 @@
+/* Upcoming MUN Conferences */
+#TextUpcoming {
+  position: absolute;
+  width: 216px;
+  height: 59px;
+  left: 114px;
+  top: 799px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ffb444;
+}
+
+/* Background Image DXCIMUN */
+#BackgroundDXCIMUN {
+  position: absolute;
+  width: 300px;
+  height: 507px;
+  left: 114px;
+  top: 894px;
+
+  background: url(Resources/DXCIMUN.png);
+}
+
+/* DXCIMUN 2019 */
+
+#TextDXCIMUN {
+  position: absolute;
+  width: 214px;
+  height: 74px;
+  left: 135px;
+  top: 1168px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 37px;
+
+  color: #ffffff;
+}
+
+/* Seattle, USA */
+#TextSeattle {
+  position: absolute;
+  width: 111px;
+  height: 22px;
+  left: 135px;
+  top: 1261px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+/*Image NMUN*/
+#BackgroundNMUN {
+  position: absolute;
+  width: 300px;
+  height: 507px;
+  left: 439px;
+  top: 894px;
+
+  background: url(Resources/NMUN.png);
+}
+
+/* NMUN 2019 */
+
+#TextNMUN {
+  position: absolute;
+  width: 145px;
+  height: 74px;
+  left: 459px;
+  top: 1168px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 37px;
+
+  color: #ffffff;
+}
+
+/* Washington DC */
+#TextWashington {
+  position: absolute;
+  width: 145px;
+  height: 22px;
+  left: 459px;
+  top: 1261px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+/*Image Harvard*/
+#BackgroundHarvard {
+  position: absolute;
+  width: 300px;
+  height: 507px;
+  left: 764px;
+  top: 894px;
+
+  background: url(Resources/Harvard.png);
+}
+
+/*Text Harvard World MUN 2020 */
+
+#TextHarvard {
+  position: absolute;
+  width: 180px;
+  height: 110px;
+  left: 784px;
+  top: 1132px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 37px;
+
+  color: #ffffff;
+}
+
+/* Tokyo, Japan */
+#TextTokyo {
+  position: absolute;
+  width: 117px;
+  height: 22px;
+  left: 784px;
+  top: 1261px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+/* Rectangle 3.4 */
+#Rectangle3_4 {
+  position: absolute;
+  width: 180px;
+  height: 34px;
+  left: 134px;
+  top: 1315px;
+
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+  border-radius: 50px;
+}
+
+/* Rectangle 3.4.1 */
+#Rectangle3_4_1 {
+  position: absolute;
+  width: 180px;
+  height: 34px;
+  left: 459px;
+  top: 1315px;
+
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+  border-radius: 50px;
+}
+
+/* Rectangle 3.4.2 */
+
+#Rectangle3_4_2 {
+  position: absolute;
+  width: 180px;
+  height: 34px;
+  left: 784px;
+  top: 1315px;
+
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+  border-radius: 50px;
+}
+
+#ButtonKnowMore {
+  position: absolute;
+  width: 105px;
+  height: 22px;
+  left: 162px;
+  top: 1321px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+#ButtonKnowMore2 {
+  position: absolute;
+  width: 105px;
+  height: 22px;
+  left: 487px;
+  top: 1321px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+#ButtonKnowMore3 {
+  position: absolute;
+  width: 105px;
+  height: 22px;
+  left: 812px;
+  top: 1321px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+/* Know More Arrow 1 */
+#KMarrow {
+  position: absolute;
+  width: 12px;
+  height: 10px;
+  left: 275px;
+  top: 1327px;
+}
+
+/* Know More Arrow 2 */
+#KMarrow2 {
+  position: absolute;
+  width: 12px;
+  height: 10px;
+  left: 600px;
+  top: 1327px;
+}
+
+/* Know More Arrow 3 */
+#KMarrow3 {
+  position: absolute;
+  width: 12px;
+  height: 10px;
+  left: 925px;
+  top: 1327px;
+}
+
+/* Ellipse 2 */
+#imageElipse1{
+position: absolute;
+width: 66px;
+height: 66px;
+left: 1100px;
+top: 1070px;
+}
+
+
+/* Ellipse 2 */
+#imageElipse2{
+position: absolute;
+width: 66px;
+height: 66px;
+left: 1100px;
+top: 1228px;
+
+background: #FFFFFF;
+}
+
+/* Vector */
+#RightArrow{
+position: absolute;
+left: 1120px;
+top: 1093px;
+}
+
+#LeftArrow{
+position: absolute;
+left: 1120px;
+top: 1252px;
+
+transform: rotate(180deg);
+}
+

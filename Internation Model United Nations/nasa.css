@@ -1,0 +1,21 @@
+
+/*layer 2 nasa picture*/
+#layer2{
+position: absolute;
+width: 1280px;
+height: 640px;
+left: 0px;
+top: 75px;
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 100%);
+}
+
+/* nasa-53884-unsplash (1) */
+#nasa{
+position: absolute;
+width: 1280px;
+height: 640px;
+left: 0px;
+top: 75px;
+
+background: url(nasa.jpg);
+}

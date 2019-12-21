@@ -1,0 +1,250 @@
+/*layer 2 nasa picture*/
+.layer2 {
+  position: absolute;
+  width: 1280px;
+  height: 640px;
+  left: 0px;
+  top: 75px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 100%),
+    url(Resources/nasa.png);
+}
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+#TextLorem {
+  position: absolute;
+  width: 288px;
+  height: 44px;
+  left: 114px;
+  top: 325px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #ffffff;
+}
+
+/* Discover over 1500 MUNs Worldwide. */
+.TextDiscover {
+  position: absolute;
+  width: 544px;
+  height: 137px;
+  left: 114px;
+  top: 158px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 59px;
+
+  color: #ffffff;
+}
+.TextDiscover #Yellow {
+  color: #ffb444;
+  font-size: 50px;
+}
+
+/* Rectangle 4 */
+
+#Rectangle4 {
+  position: absolute;
+  width: 452px;
+  height: 256px;
+  left: 690px;
+  top: 134px;
+
+  background: #ffffff;
+  opacity: 0.05;
+  border-radius: 20px;
+}
+
+/* Search for MUNs */
+#TextSearch {
+  position: absolute;
+  width: 209px;
+  height: 30px;
+  left: 799px;
+  top: 177px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+/* Group 48 */
+.Group48 {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  left: 739px;
+  top: 168px;
+}
+
+/* Vector before text Search for MUN */
+#VectorSearch {
+  position: absolute;
+  left: 58.36%;
+  right: 39.06%;
+  top: 3.95%;
+  bottom: 95.31%;
+  width: 33px;
+  height: 33px;
+
+  
+  border-radius: 2px;
+}
+
+/* Rectangle 4.1 */
+#Rectangle4_1 {
+  position: absolute;
+  width: 452px;
+  height: 256px;
+  left: 690px;
+  top: 400px;
+
+  background: #ffffff;
+  opacity: 0.05;
+  border-radius: 20px;
+}
+
+/* Organise your MUN */
+
+#TextOrganise {
+  position: absolute;
+  width: 246px;
+  height: 30px;
+  left: 799px;
+  top: 443px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+/* Vector before Text Organise your MUN */
+#VectorOrganise {
+  position: absolute;
+  left: 58.59%;
+  right: 39.3%;
+  top: 10%;
+  bottom: 89.4%;
+
+
+
+}
+
+/* Lorem ipsum..... */
+#TextLorem2 {
+  position: absolute;
+  width: 328px;
+  height: 69px;
+  left: 743px;
+  top: 234px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: justify;
+
+  color: #ffffff;
+}
+
+/* Rectangle 3.3 */
+#Rectangle3_3 {
+  position: absolute;
+  width: 116px;
+  height: 30px;
+  left: 739px;
+  top: 325px;
+
+  border: 1px solid #ffb444;
+  box-sizing: border-box;
+  border-radius: 50px;
+}
+
+/* Search */
+#Search {
+  position: absolute;
+  width: 49px;
+  height: 18px;
+  left: 773px;
+  top: 331px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+
+  color: #ffb444;
+}
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, */
+
+#TextLorem3 {
+  position: absolute;
+  width: 328px;
+  height: 69px;
+  left: 743px;
+  top: 500px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: justify;
+
+  color: #ffffff;
+}
+
+/* Rectangle 3.5 */
+#Rectangle3_5 {
+  position: absolute;
+  width: 116px;
+  height: 30px;
+  left: 739px;
+  top: 591px;
+
+  border: 1px solid #ffb444;
+  box-sizing: border-box;
+  border-radius: 50px;
+}
+
+/* Organise */
+#ButtonTextOrganise{
+position: absolute;
+width: 65px;
+height: 18px;
+left: 765px;
+top: 597px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #FFB444;
+}

@@ -1,0 +1,178 @@
+/*header*/
+header {
+  position: absolute;
+  width: 1280px;
+  height: 75px;
+  left: 0px;
+  top: 0px;
+
+  background: #121e32;
+}
+
+/*logo*/
+#logo {
+  position: absolute;
+  width: 43px;
+  height: 42px;
+  left: 114px;
+  top: 16px;
+
+  background: url(logo.png);
+}
+
+/* Group 26 */
+/*
+#GroupHeader{
+position: absolute;
+width: 731px;
+height: 15px;
+left: 435px;
+top: 30px;
+}
+*/
+/* International Model United Nations */
+#InternationalModelUnitedNations {
+  position: absolute;
+  width: 132px;
+  height: 30px;
+  left: 161px;
+  top: 25px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #ffffff;
+}
+
+/* Home Button */
+#home {
+  position: absolute;
+  width: 38px;
+  height: 15px;
+  left: 435px;
+  top: 30px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+  color: #ffb444;
+}
+
+/* Search for IMUNs */
+#SearchForIMUNs {
+  position: absolute;
+  width: 104px;
+  height: 15px;
+  left: 513px;
+  top: 30px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+  color: #ffffff;
+}
+
+/* Organise IMUN */
+#OrganiseIMUN {
+  position: absolute;
+  width: 92px;
+  height: 15px;
+  left: 657px;
+  top: 30px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+  color: #ffffff;
+}
+
+/* Features */
+#Feature {
+  position: absolute;
+  width: 53px;
+  height: 15px;
+  left: 789px;
+  top: 30px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+  color: #ffffff;
+}
+
+/* About Us */
+#AboutUs {
+  position: absolute;
+  width: 56px;
+  height: 15px;
+  left: 882px;
+  top: 30px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+  color: #ffffff;
+}
+
+/* Blogs */
+#Blogs {
+  position: absolute;
+  width: 34px;
+  height: 15px;
+  left: 978px;
+  top: 30px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+  color: #ffffff;
+}
+
+/* Login/Register */
+#Login {
+  position: absolute;
+  width: 90px;
+  height: 15px;
+  left: 1052px;
+  top: 30px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+/* Vector */
+#Vector {
+  position: absolute;
+  width: 12px;
+  height: 10px;
+  left: 1154px;
+  top: 32px;
+}
