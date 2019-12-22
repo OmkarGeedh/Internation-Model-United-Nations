@@ -100,7 +100,6 @@
   width: 33px;
   height: 33px;
 
-  
   border-radius: 2px;
 }
 
@@ -145,9 +144,6 @@
   right: 39.3%;
   top: 10%;
   bottom: 89.4%;
-
-
-
 }
 
 /* Lorem ipsum..... */
@@ -232,19 +228,19 @@
 }
 
 /* Organise */
-#ButtonTextOrganise{
-position: absolute;
-width: 65px;
-height: 18px;
-left: 765px;
-top: 597px;
+#ButtonTextOrganise {
+  position: absolute;
+  width: 65px;
+  height: 18px;
+  left: 765px;
+  top: 597px;
 
-font-family: Montserrat;
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 17px;
-text-align: center;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
 
-color: #FFB444;
+  color: #ffb444;
 }

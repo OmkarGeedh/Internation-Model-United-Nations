@@ -14,3 +14,336 @@
 
   color: #ffb444;
 }
+
+/* Powerful Marketing and Conference Management Tools */
+#TextPowerful {
+  position: absolute;
+  width: 312px;
+  height: 44px;
+  left: 219px;
+  top: 1608px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #121e32;
+}
+
+#Rectangle3_5 {
+  position: absolute;
+  width: 157px;
+  height: 25px;
+  left: 219px;
+  top: 1683px;
+
+  border: 1px solid #3d92f6;
+  box-sizing: border-box;
+  border-radius: 200px;
+}
+
+/* For Organisers */
+
+#TextForOrganisers {
+  position: absolute;
+  width: 105px;
+  height: 18px;
+  left: 245px;
+  top: 1673px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+
+  color: #3d92f6;
+}
+
+/* Run your conference's registration with a professional, powerful conference management system, hand-built for MUN. Advertise to 100k+ MUNers. */
+#TextRunYour {
+  position: absolute;
+  width: 344px;
+  height: 110px;
+  left: 219px;
+  top: 1716px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #6a6a6a;
+}
+
+/* Rectangle 3.3 */
+
+#Rectangle3_3 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 142px;
+  top: 1606px;
+
+  background: #3d92f6;
+  border-radius: 5px;
+}
+
+/* Rectangle 3.3 */
+#Rectangle3_3_1 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 654px;
+  top: 1606px;
+
+  background: #5e44ff;
+  border-radius: 5px;
+}
+
+#Rectangle3_5_1 {
+  position: absolute;
+  width: 157px;
+  height: 25px;
+  left: 731px;
+  top: 1683px;
+
+  border: 1px solid #5e44ff;
+  box-sizing: border-box;
+  border-radius: 200px;
+}
+
+/* The Biggest MUN Database with Easy Applications */
+#TextBiggest {
+  position: absolute;
+  width: 267px;
+  height: 44px;
+  left: 731px;
+  top: 1608px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #121e32;
+}
+
+/* For Participants */
+#TextParticipants {
+  position: absolute;
+  width: 114px;
+  height: 18px;
+  left: 752px;
+  top: 1673px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+
+  color: #5e44ff;
+}
+
+/* Let mymun's professional, experienced team help you find the best group rate for your hotel and flights! */
+
+#TextLetMYMUN {
+  position: absolute;
+  width: 344px;
+  height: 88px;
+  left: 731px;
+  top: 1716px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #6a6a6a;
+}
+
+#Rectangle3_3_2 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 142px;
+  top: 1915px;
+
+  background: #4ee058;
+  border-radius: 5px;
+}
+
+/* Vector */
+#ImagePolice {
+  position: absolute;
+  left: 12.03%;
+  right: 85.15%;
+  top: 43.17%;
+  bottom: 55.81%;
+
+  background: #ffffff;
+}
+
+/* Personalized Travel Service for Your Delegation */
+#TextPersonalized {
+  position: absolute;
+  width: 267px;
+  height: 44px;
+  left: 219px;
+  top: 1917px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #121e32;
+}
+
+#Rectangle3_5_2 {
+  position: absolute;
+  width: 121px;
+  height: 25px;
+  left: 219px;
+  top: 1992px;
+
+  border: 1px solid #4ee058;
+  box-sizing: border-box;
+  border-radius: 200px;
+}
+
+/* For Groups */
+
+#ForGroups {
+  position: absolute;
+  width: 79px;
+  height: 18px;
+  left: 240px;
+  top: 1982px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+
+  color: #4ee058;
+}
+
+/* Special rates for flights and hotels as well as exclusive insurance deals, adventure tours, car rentals and more. */
+#TextSpecialRates {
+  position: absolute;
+  width: 344px;
+  height: 88px;
+  left: 219px;
+  top: 2025px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #6a6a6a;
+}
+
+/* Rectangle 3.3 */
+
+#Rectangle3_3_3 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 654px;
+  top: 1915px;
+
+  background: #ffb444;
+  border-radius: 5px;
+}
+
+/* Vector */
+#Airplane {
+  position: absolute;
+  left: 51.72%;
+  right: 44.77%;
+  top: 43.33%;
+  bottom: 55.95%;
+
+  background: #ffffff;
+}
+
+/* The Best Flights, Hotels, Trips and Insurances */
+#TextBestFlights {
+  position: absolute;
+  width: 236px;
+  height: 44px;
+  left: 731px;
+  top: 1917px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #121e32;
+}
+
+/* Rectangle 3.5 */
+
+#Rectangle3_5_3 {
+  position: absolute;
+  width: 121px;
+  height: 25px;
+  left: 731px;
+  top: 1992px;
+
+  border: 1px solid #ffb444;
+  box-sizing: border-box;
+  border-radius: 200px;
+}
+
+/* For Everyone */
+#TextEveryone {
+  position: absolute;
+  width: 94px;
+  height: 18px;
+  left: 744px;
+  top: 1982px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+
+  color: #ffb444;
+}
+
+/* Looking for your next conference? Browse the largest database of Model UN, Model EU, and other political simulation conferences and apply with one click! */
+
+#TextLooking {
+  position: absolute;
+  width: 344px;
+  height: 110px;
+  left: 731px;
+  top: 2025px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #6a6a6a;
+}

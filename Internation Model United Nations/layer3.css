@@ -281,38 +281,36 @@
 }
 
 /* Ellipse 2 */
-#imageElipse1{
-position: absolute;
-width: 66px;
-height: 66px;
-left: 1100px;
-top: 1070px;
+#imageElipse1 {
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  left: 1100px;
+  top: 1070px;
 }
 
-
 /* Ellipse 2 */
-#imageElipse2{
-position: absolute;
-width: 66px;
-height: 66px;
-left: 1100px;
-top: 1228px;
+#imageElipse2 {
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  left: 1100px;
+  top: 1228px;
 
-background: #FFFFFF;
+  background: #ffffff;
 }
 
 /* Vector */
-#RightArrow{
-position: absolute;
-left: 1120px;
-top: 1093px;
+#RightArrow {
+  position: absolute;
+  left: 1120px;
+  top: 1093px;
 }
 
-#LeftArrow{
-position: absolute;
-left: 1120px;
-top: 1252px;
+#LeftArrow {
+  position: absolute;
+  left: 1120px;
+  top: 1252px;
 
-transform: rotate(180deg);
+  transform: rotate(180deg);
 }
-
