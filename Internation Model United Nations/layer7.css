@@ -1,0 +1,444 @@
+#GetInTouchBox {
+  /* Rectangle 4.5 */
+
+  position: absolute;
+  width: 534px;
+  height: 455px;
+  left: 114px;
+  top: 3450px;
+
+  background: #ffffff;
+  box-shadow: 5px 10px 30px rgba(0, 0, 0, 0.05),
+    -10px 4px 20px rgba(0, 0, 0, 0.05);
+  border-radius: 20px;
+}
+
+#GetInTouch {
+  position: absolute;
+  width: 158px;
+  height: 30px;
+  left: 114px;
+  top: 3384px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #ffb444;
+}
+
+#SaySomething {
+  position: absolute;
+  width: 109.15px;
+  height: 15px;
+  left: 154.56px;
+  top: 3486.88px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #15477a;
+}
+
+#NameBox {
+  position: absolute;
+  width: 200px;
+  height: 42.26px;
+  left: 161.74px;
+  top: 3533.73px;
+
+  border: 1px solid #2d5a88;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+#EmailBox {
+  position: absolute;
+  width: 200px;
+  height: 42.26px;
+  left: 396px;
+  top: 3533.42px;
+
+  border: 1px solid #2d5a88;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+#SubjectBox {
+  position: absolute;
+  width: 200px;
+  height: 43px;
+  left: 162px;
+  top: 3601px;
+
+  border: 1px solid #2d5a88;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+#CompanyBox {
+  position: absolute;
+  width: 200px;
+  height: 43px;
+  left: 396px;
+  top: 3601px;
+
+  border: 1px solid #2d5a88;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+#YourMessageBox {
+  position: absolute;
+  width: 434px;
+  height: 107px;
+  left: 162px;
+  top: 3671px;
+
+  border: 1px solid #2d5a88;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+#TextName {
+  position: absolute;
+  width: 28.39px;
+  height: 11.06px;
+  left: 188.69px;
+  top: 3520.2px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 8px;
+  line-height: 10px;
+  display: flex;
+  align-items: center;
+
+  color: rgba(0, 0, 0, 0.7);
+}
+
+#TextNameBorder {
+  position: absolute;
+  width: 38.71px;
+  height: 24.59px;
+  left: 183.68px;
+  top: 3521.31px;
+
+  background: #ffffff;
+}
+
+#TextEmailBorder {
+  position: absolute;
+  width: 49.05px;
+  height: 24.85px;
+  left: 418.05px;
+  top: 3521px;
+
+  background: #ffffff;
+}
+
+#TextEmail {
+  position: absolute;
+  width: 39.36px;
+  height: 11.06px;
+  left: 422.95px;
+  top: 3520.89px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 8px;
+  line-height: 10px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: rgba(0, 0, 0, 0.7);
+}
+
+#TextSubjectBorder {
+  position: absolute;
+  width: 49.05px;
+  height: 24.85px;
+  left: 183.8px;
+  top: 3589px;
+
+  background: #ffffff;
+}
+
+#TextSubject {
+  position: absolute;
+  width: 39.36px;
+  height: 11.06px;
+  left: 188.69px;
+  top: 3587.89px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 8px;
+  line-height: 10px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: rgba(0, 0, 0, 0.7);
+}
+
+#TextCompanyBorder {
+  position: absolute;
+  width: 49.05px;
+  height: 24.85px;
+  left: 417.8px;
+  top: 3589px;
+
+  background: #ffffff;
+}
+
+#TextCompany {
+  position: absolute;
+  width: 39.36px;
+  height: 11.06px;
+  left: 422.69px;
+  top: 3587.89px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 8px;
+  line-height: 10px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: rgba(0, 0, 0, 0.7);
+}
+
+#TextYourMessageBorder {
+  position: absolute;
+  width: 77.42px;
+  height: 24.59px;
+  left: 183.94px;
+  top: 3660.85px;
+
+  background: #ffffff;
+}
+
+#TextYourMessage {
+  position: absolute;
+  width: 65.16px;
+  height: 11.06px;
+  left: 189.1px;
+  top: 3656.83px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 8px;
+  line-height: 10px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: rgba(0, 0, 0, 0.7);
+}
+
+#SendBox {
+  position: absolute;
+  width: 146px;
+  height: 33px;
+  left: 450px;
+  top: 3843px;
+
+  background: #15477a;
+  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+}
+
+#TextSendBox {
+  position: absolute;
+  width: 41.98px;
+  height: 18px;
+  left: 502px;
+  top: 3836.6px;
+
+  font-family: Arimo;
+  font-size: 15px;
+  line-height: 18px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+#VectorPhone {
+  position: absolute;
+  width: 13.17px;
+  height: 13.17px;
+  left: 730.87px;
+  top: 3677.11px;
+}
+
+#VectorPhone1 {
+  position: absolute;
+  width: 4.75px;
+  height: 4.75px;
+  left: 738.06px;
+  top: 3677.93px;
+}
+
+#VectorPhone2 {
+  position: absolute;
+  width: 7.78px;
+  height: 7.78px;
+  left: 738.06px;
+  top: 3674.9px;
+}
+
+#VectorPhoneBorder {
+  position: absolute;
+  width: 24.77px;
+  height: 26.05px;
+  left: 726px;
+  top: 3671px;
+}
+
+#TextPhone {
+  position: absolute;
+  width: 34px;
+  height: 15px;
+  left: 772px;
+  top: 3671px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: rgba(0, 0, 0, 0.7);
+}
+
+#PhoneNumber {
+  /* (+91) 999 741 5973 */
+  position: absolute;
+  width: 159px;
+  height: 22px;
+  left: 772px;
+  top: 3692px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  color: #0e3660;
+}
+
+#VectorEmail {
+  position: absolute;
+  width: 25px;
+  height: 17.58px;
+  left: 726px;
+  top: 3744px;
+}
+
+#textemail {
+  /* Email */
+
+  position: absolute;
+  width: 30px;
+  height: 15px;
+  left: 772px;
+  top: 3735px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: rgba(0, 0, 0, 0.7);
+}
+
+#Emailaddress {
+  /* info@internationalmun.org */
+
+  position: absolute;
+  width: 250px;
+  height: 22px;
+  left: 772px;
+  top: 3765px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  color: #0e3660;
+}
+
+#AddressLogo {
+  position: absolute;
+  width: 20px;
+  height: 24px;
+  left: 728px;
+  top: 3817px;
+}
+
+#AddressLogo1 {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  left: 733px;
+  top: 3822px;
+}
+
+/* E-73 Sector 50, Gautam Budh Nagar, Noida, India - 201 304 */
+
+#Address {
+  position: absolute;
+  width: 270px;
+  height: 44px;
+  left: 772px;
+  top: 3838px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #0e3660;
+}
+
+#TextAddress {
+  position: absolute;
+  width: 44px;
+  height: 15px;
+  left: 772px;
+  top: 3817px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: rgba(0, 0, 0, 0.7);
+}

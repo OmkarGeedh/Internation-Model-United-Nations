@@ -1,0 +1,403 @@
+/* About mymun */
+
+#FAboutMUMUN {
+  position: absolute;
+  width: 179px;
+  height: 30px;
+  left: 87px;
+  top: 4102px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+#Footer {
+  position: absolute;
+  width: 1280px;
+  height: 414px;
+  left: 0px;
+  top: 4038px;
+
+  background: #121e32;
+}
+
+#TextFAboutMUMUN {
+  /* The ultimate MUN database, conference management tool, and social network. Join over 100,000 muners to discover new MUN conferences, organize your own MUN conference, research and publish Position Papers, travel cheaply and securely, and make friends for life. */
+
+  position: absolute;
+  width: 232px;
+  height: 158px;
+  left: 87px;
+  top: 4144px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: justify;
+
+  color: #ffffff;
+}
+
+#VerticalLine {
+  position: absolute;
+  width: 1px;
+  height: 205px;
+  left: 376px;
+  top: 4102px;
+
+  background: #ffffff;
+}
+
+#FSearch {
+  position: absolute;
+  width: 110px;
+  height: 15px;
+  left: 428px;
+  top: 4122px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+#FOrganise {
+  position: absolute;
+  width: 92px;
+  height: 15px;
+  left: 428px;
+  top: 4167px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+#FFeature {
+  position: absolute;
+  width: 53px;
+  height: 15px;
+  left: 428px;
+  top: 4212px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+/* Blogs */
+
+#FBlogs {
+  position: absolute;
+  width: 34px;
+  height: 15px;
+  left: 428px;
+  top: 4257px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+/* MUN Conference Highlights */
+#FConHighlight {
+  position: absolute;
+  width: 173px;
+  height: 15px;
+  left: 618px;
+  top: 4122px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+/* MUN Conference List */
+
+#FConList {
+  position: absolute;
+  width: 131px;
+  height: 15px;
+  left: 618px;
+  top: 4167px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+#FConCal {
+  position: absolute;
+  width: 164px;
+  height: 15px;
+  left: 618px;
+  top: 4212px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+#FConMap {
+  position: absolute;
+  width: 133px;
+  height: 15px;
+  left: 618px;
+  top: 4257px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+#VerticalLine2 {
+  position: absolute;
+  width: 1px;
+  height: 205px;
+  left: 856px;
+  top: 4102px;
+
+  background: #ffffff;
+}
+
+#FPhnBorder {
+  position: absolute;
+  width: 17.11px;
+  height: 18px;
+  left: 908px;
+  top: 4140px;
+}
+
+#FPhn {
+  position: absolute;
+  width: 9.1px;
+  height: 9.1px;
+  left: 911.36px;
+  top: 4144.22px;
+}
+#FPhnSignal {
+  position: absolute;
+  width: 3.28px;
+  height: 3.28px;
+  left: 916.33px;
+  top: 4144.79px;
+}
+
+#FPhnSignal2 {
+  position: absolute;
+  width: 5.37px;
+  height: 5.37px;
+  left: 916.33px;
+  top: 4142.7px;
+}
+
+#TextFPhn {
+  /* Phone */
+
+  position: absolute;
+  width: 23px;
+  height: 10px;
+  left: 932px;
+  top: 4130px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 8px;
+  line-height: 9px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+/* (+91) 999 741 5973 */
+
+#HPhnNumber {
+  position: absolute;
+  width: 71px;
+  height: 10px;
+  left: 932px;
+  top: 4145px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 8px;
+  line-height: 10px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+#Femail {
+  position: absolute;
+  width: 25px;
+  height: 17.58px;
+  left: 908px;
+  top: 4185px;
+}
+
+/* Email */
+
+#FTextEmail {
+  position: absolute;
+  width: 20px;
+  height: 10px;
+  left: 940px;
+  top: 4175px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 8px;
+  line-height: 9px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+/* info@internationalmun.org */
+
+#FEmailid {
+  position: absolute;
+  width: 111px;
+  height: 10px;
+  left: 940px;
+  top: 4190px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 8px;
+  line-height: 10px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+#AddressWhite {
+  position: absolute;
+  width: 15px;
+  height: 18px;
+  left: 908px;
+  top: 4235px;
+}
+
+#AddressWhite1 {
+  position: absolute;
+  width: 7.5px;
+  height: 7.5px;
+  left: 911.75px;
+  top: 4238.75px;
+}
+
+#FAddText{
+    /* Address */
+
+
+position: absolute;
+width: 29px;
+height: 10px;
+left: 930px;
+top: 4225px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 8px;
+line-height: 9px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+#FAdd{
+    /* E-73 Sector 50, Gautam Budh Nagar, Noida, India - 201 304 */
+
+
+position: absolute;
+width: 236px;
+height: 10px;
+left: 930px;
+top: 4240px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+#Copyright{
+    /* COPYRIGHT © 2018-2019, INTERNATIONAL MODEL UNITED NATIONS */
+
+
+position: absolute;
+width: 430px;
+height: 20px;
+left: 430px;
+top: 4394px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 158.47%;
+/* or 19px */
+
+text-align: center;
+
+color: #FFFFFF;
+}

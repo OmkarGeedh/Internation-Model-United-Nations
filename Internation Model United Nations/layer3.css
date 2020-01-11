@@ -295,7 +295,7 @@
   width: 66px;
   height: 66px;
   left: 1100px;
-  top: 1228px;
+  top: 1175px;
 
   background: #ffffff;
 }
@@ -310,7 +310,7 @@
 #LeftArrow {
   position: absolute;
   left: 1120px;
-  top: 1252px;
+  top: 1200px;
 
   transform: rotate(180deg);
 }

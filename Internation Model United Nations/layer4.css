@@ -32,7 +32,7 @@
   color: #121e32;
 }
 
-#Rectangle3_5 {
+#Rectangle3_5_0 {
   position: absolute;
   width: 157px;
   height: 25px;
@@ -82,7 +82,7 @@
 
 /* Rectangle 3.3 */
 
-#Rectangle3_3 {
+#Rectangle3_3_0 {
   position: absolute;
   width: 60px;
   height: 60px;
@@ -277,8 +277,6 @@
   right: 44.77%;
   top: 43.33%;
   bottom: 55.95%;
-
-  background: #ffffff;
 }
 
 /* The Best Flights, Hotels, Trips and Insurances */
@@ -346,4 +344,166 @@
   line-height: 22px;
 
   color: #6a6a6a;
+}
+
+#t1 {
+  position: absolute;
+  left: 11.64%;
+  right: 87.3%;
+  top: 36.32%;
+  bottom: 63.38%;
+}
+
+#t2 {
+  position: absolute;
+  left: 11.88%;
+  right: 87.48%;
+  top: 36.38%;
+  bottom: 63.46%;
+}
+
+#t3 {
+  position: absolute;
+  left: 12.82%;
+  right: 86.01%;
+  top: 36.32%;
+  bottom: 63.65%;
+
+  background: #ffffff;
+}
+
+#t4 {
+  position: absolute;
+  left: 14.11%;
+  right: 84.83%;
+  top: 36.23%;
+  bottom: 63.46%;
+}
+
+#t5 {
+  position: absolute;
+  left: 12.88%;
+  right: 86.07%;
+  top: 36.42%;
+  bottom: 63.28%;
+}
+
+#t6 {
+  position: absolute;
+  left: 13.23%;
+  right: 86.42%;
+  top: 36.48%;
+  bottom: 63.35%;
+}
+
+#t7 {
+  position: absolute;
+  left: 12.41%;
+  right: 85.45%;
+  top: 36.57%;
+  bottom: 62.75%;
+}
+
+#u1 {
+  position: absolute;
+  left: 51.72%;
+  right: 44.77%;
+  top: 36.23%;
+  bottom: 62.77%;
+}
+
+#u2 {
+  position: absolute;
+  left: 52.07%;
+  right: 47.81%;
+  top: 37.17%;
+  bottom: 62.79%;
+
+  background: #ffffff;
+}
+
+#u3 {
+  position: absolute;
+  left: 52.42%;
+  right: 47.46%;
+  top: 37.14%;
+  bottom: 62.83%;
+
+  background: #ffffff;
+}
+
+#u4 {
+  position: absolute;
+  left: 53.71%;
+  right: 45.12%;
+  top: 36.7%;
+  bottom: 62.96%;
+}
+
+#u5 {
+  position: absolute;
+  left: 53.71%;
+  right: 45.12%;
+  top: 37.14%;
+  bottom: 62.83%;
+
+  background: #ffffff;
+}
+
+#u6 {
+  position: absolute;
+  left: 53.96%;
+  right: 45.37%;
+  top: 37.21%;
+  bottom: 62.76%;
+
+  background: #ffffff;
+}
+
+#Police {
+  position: absolute;
+  left: 12.03%;
+  right: 85.15%;
+  top: 43.17%;
+  bottom: 55.81%;
+}
+
+#x1 {
+  position: absolute;
+  left: 13.44%;
+  right: 86.44%;
+  top: 43.95%;
+  bottom: 56.02%;
+
+  background: #ffffff;
+}
+
+#x2 {
+  position: absolute;
+  left: 13.44%;
+  right: 86.44%;
+  top: 44.02%;
+  bottom: 55.95%;
+
+  background: #ffffff;
+}
+
+#x3 {
+  position: absolute;
+  left: 13.44%;
+  right: 86.44%;
+  top: 44.08%;
+  bottom: 55.88%;
+
+  background: #ffffff;
+}
+
+#x4 {
+  position: absolute;
+  left: 13.68%;
+  right: 85.85%;
+  top: 43.93%;
+  bottom: 56.03%;
+
+  background: #ffffff;
 }

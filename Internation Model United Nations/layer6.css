@@ -1,0 +1,211 @@
+/* What people have to say about us! */
+
+#Feedback {
+  position: absolute;
+  width: 435px;
+  height: 30px;
+  left: 114px;
+  top: 2893px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #ffb444;
+}
+
+#shadow1 {
+  position: absolute;
+  width: 523.04px;
+  height: 210.42px;
+  left: 262.97px;
+  top: 3014.53px;
+
+  background: linear-gradient(32.28deg, #215995 0%, #4087da 100%);
+  opacity: 0.2;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+
+#shadow2 {
+  position: absolute;
+  width: 475.74px;
+  height: 238.48px;
+  left: 276.61px;
+  top: 3000.51px;
+
+  background: linear-gradient(38.21deg, #215995 0%, #4087da 100%);
+  opacity: 0.5;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+
+#shadow3 {
+  position: absolute;
+  width: 534.86px;
+  height: 269.49px;
+  left: 290.26px;
+  top: 2985px;
+
+  background: linear-gradient(38.35deg, #226ab4 0%, #4087da 100%);
+  box-shadow: -20px 10px 20px rgba(77, 143, 221, 0.2);
+  border-radius: 20px;
+}
+
+#QuatationMark {
+  position: absolute;
+  width: 44.21px;
+  height: 35.88px;
+  left: 325.08px;
+  top: 3014.68px;
+}
+
+/* This is my first Model United Nations conference where I have gained a lot of new experience and have met people who are smart, kind and hardworking. Most importantly, it made me want to improve myself more! */
+#TextFeedback {
+  position: absolute;
+  width: 389px;
+  height: 170px;
+  left: 384.77px;
+  top: 3047px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 146.28%;
+  /* or 26px */
+
+  text-align: justify;
+
+  color: #ffffff;
+}
+
+#VecPre {
+  position: absolute;
+  left: 164.19px;
+  top: 3106.94px;
+}
+
+#VecNext {
+  position: absolute;
+  left: 1115.34px;
+  top: 3133.77px;
+}
+
+/* Sand Siwapron */
+#SandSiwapron {
+  position: absolute;
+  width: 120.72px;
+  height: 120.72px;
+  left: 895.84px;
+  top: 3024.02px;
+
+  border-radius: 50%;
+}
+
+#TextSandSiwapron {
+  position: absolute;
+  width: 149px;
+  height: 18px;
+  left: 881.77px;
+  top: 3168px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+
+  color: #15477a;
+}
+
+#Thailand {
+  position: absolute;
+  width: 77px;
+  height: 16px;
+  left: 914.77px;
+  top: 3201px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+
+  color: #696969;
+}
+
+#loading1 {
+  position: absolute;
+  width: 8.54px;
+  height: 8.54px;
+  left: 498.31px;
+  top: 3290.46px;
+  border-radius: 50%;
+  background: #c4c4c4;
+}
+
+#loading2 {
+  position: absolute;
+  width: 8.54px;
+  height: 8.54px;
+  left: 516.61px;
+  top: 3290.46px;
+  border-radius: 50%;
+  background: #c4c4c4;
+}
+
+#loading3 {
+  position: absolute;
+  width: 8.54px;
+  height: 8.54px;
+  left: 534.9px;
+  top: 3290.46px;
+  border-radius: 50%;
+  background: #c4c4c4;
+}
+
+#loading4 {
+  position: absolute;
+  width: 8.54px;
+  height: 8.54px;
+  left: 553.19px;
+  top: 3290.46px;
+  border-radius: 50%;
+  background: #c4c4c4;
+}
+
+#loading5 {
+  position: absolute;
+  width: 8.54px;
+  height: 8.54px;
+  left: 571.48px;
+  top: 3290.46px;
+  border-radius: 50%;
+  background: #357ccc;
+}
+
+#loading6 {
+  position: absolute;
+  width: 8.54px;
+  height: 8.54px;
+  left: 589.77px;
+  top: 3290.46px;
+  border-radius: 50%;
+  background: #c4c4c4;
+}
+
+#loading7 {
+  position: absolute;
+  width: 8.54px;
+  height: 8.54px;
+  left: 608.06px;
+  top: 3290.46px;
+  border-radius: 50%;
+  background: #c4c4c4;
+}
