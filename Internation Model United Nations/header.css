@@ -6,7 +6,7 @@ header {
   left: 0px;
   top: 0px;
 
-  background: #121e32;
+  background: #121e32;/* dark blue */
 }
 
 /*logo*/
@@ -43,7 +43,7 @@ top: 30px;
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
-  color: #ffffff;
+  color: #ffffff; /* yellow */
 }
 
 /* Home Button */
@@ -60,7 +60,7 @@ top: 30px;
   font-size: 12px;
   line-height: 15px;
   /* identical to box height */
-  color: #ffb444;
+  color: #ffb444; /* yellow */
 }
 
 /* Search for IMUNs */
@@ -77,7 +77,7 @@ top: 30px;
   font-size: 12px;
   line-height: 15px;
   /* identical to box height */
-  color: #ffffff;
+  color: #ffffff; /* white */
 }
 
 /* Organise IMUN */
@@ -94,7 +94,7 @@ top: 30px;
   font-size: 12px;
   line-height: 15px;
   /* identical to box height */
-  color: #ffffff;
+  color: #ffffff; /* white */
 }
 
 /* Features */
