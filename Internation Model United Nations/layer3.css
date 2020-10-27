@@ -12,7 +12,7 @@
   font-size: 24px;
   line-height: 29px;
 
-  color: #ffb444;
+  color: #ffb444; /* yellow */
 }
 
 /* Background Image DXCIMUN */
@@ -41,7 +41,7 @@
   font-size: 30px;
   line-height: 37px;
 
-  color: #ffffff;
+  color: #ffffff; /* white */
 }
 
 /* Seattle, USA */
@@ -59,7 +59,7 @@
   line-height: 22px;
   /* identical to box height */
 
-  color: #ffffff;
+  color: #ffffff; /* white */
 }
 
 /*Image NMUN*/
@@ -88,7 +88,7 @@
   font-size: 30px;
   line-height: 37px;
 
-  color: #ffffff;
+  color: #ffffff; /* white */
 }
 
 /* Washington DC */
@@ -106,7 +106,7 @@
   line-height: 22px;
   /* identical to box height */
 
-  color: #ffffff;
+  color: #ffffff; /* white */
 }
 
 /*Image Harvard*/
@@ -135,7 +135,7 @@
   font-size: 30px;
   line-height: 37px;
 
-  color: #ffffff;
+  color: #ffffff; /* white */
 }
 
 /* Tokyo, Japan */
@@ -153,7 +153,7 @@
   line-height: 22px;
   /* identical to box height */
 
-  color: #ffffff;
+  color: #ffffff; /* white */
 }
 
 /* Rectangle 3.4 */
@@ -212,7 +212,7 @@
 
   text-align: center;
 
-  color: #ffffff;
+  color: #ffffff; /* white */
 }
 
 #ButtonKnowMore2 {
@@ -231,7 +231,7 @@
 
   text-align: center;
 
-  color: #ffffff;
+  color: #ffffff; /* white */
 }
 
 #ButtonKnowMore3 {
@@ -250,7 +250,7 @@
 
   text-align: center;
 
-  color: #ffffff;
+  color: #ffffff; /* white */
 }
 
 /* Know More Arrow 1 */
@@ -297,7 +297,7 @@
   left: 1100px;
   top: 1175px;
 
-  background: #ffffff;
+  background: #ffffff; /* white */
 }
 
 /* Vector */
